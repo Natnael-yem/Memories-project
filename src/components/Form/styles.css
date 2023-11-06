@@ -1,0 +1,25 @@
+.paper{
+    padding: 10px;
+    margin: 10px 0;
+}
+.text{
+    text-align: center;
+}
+form{
+    display: flex;
+    flex-wrap: warp;
+    flex-direction: column;
+    justify-content: center;
+}
+.fileInput{
+    width: 97%;
+    margin: 10px 0;
+}
+.buttonSubmit{
+    margin-bottom: 10px;
+}
+.textfields{
+    padding: 10px;
+   
+}
+

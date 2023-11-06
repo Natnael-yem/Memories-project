@@ -1,5 +1,5 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
+#OAuth Client secret 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
 # dependencies
 /node_modules
 /.pnp
